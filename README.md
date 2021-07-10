@@ -1,4 +1,12 @@
-### Hi there 👋
+
+# Hi, I'm Marko 👋
+
+#### Front-end Engineer at <a href="https://onfido.com/">Onfido</a>
+### 🔭 A couple of projects I've worked on:
+<img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230" />
+
+* **Gestural code editor:** I prototyped a gestural code editor in the browser.
+* **Breakout game:** Built multiple versions of a game using different paradigms (vanilla JS, functional JS, ES6 Classes and Elm - Rust - WebAssembly wip). I profiled the execution time for each game with automated tests (Jest/Puppeteer) and created a visualisation showing the differences.
 
 <!--
 **markorodic/markorodic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
