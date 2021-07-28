@@ -1,12 +1,12 @@
 
-# Hi, I'm Marko 👋
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1613285697/12806/meow_attention.png?1613285697" width="30"/> Hey! Welcome to my page.</h1>
 
-#### Front-end Engineer at <a href="https://onfido.com/">Onfido</a>
-### 🔭 A couple of projects I've worked on:
-<img align='right' src="https://media.giphy.com/media/MT5UUV1d4CXE2A37Dg/giphy.gif" width="230" />
+I'm Marko, a Software engineer living in <b>London</b> 🇬🇧. I work at Onfido where I build dashboards to help businesses verify who their users are safely. I attended the Recurse Center in <b>New York City</b> 🇺🇸, a self directed retreat for programmers. There I was able to explore how to make programming more accessible and human, played around with some lower-level languages, worked on some generative art projects and paired with lots of great people.
 
-* **Gestural code editor:** I prototyped a gestural code editor in the browser.
-* **Breakout game:** Built multiple versions of a game using different paradigms (vanilla JS, functional JS, ES6 Classes and Elm - Rust - WebAssembly wip). I profiled the execution time for each game with automated tests (Jest/Puppeteer) and created a visualisation showing the differences.
+<h3>A couple of projects I've worked on recently:</h3>
+<ul>
+  <li><a href="https://github.com/markorodic/lines_of_code"><b>Gestural code editor</b></a><br/><i>Prototyped a gestural code editor in the browser.</i></li>
+  <li><a href="https://github.com/markorodic/the-brick-break"><b>Breakout game</b></a><br/><i>Built the same games with different paradigms in JS, profiled the execution time for each game, and created a visualisation showing the differences.</i></li>
 
 <!--
 **markorodic/markorodic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
